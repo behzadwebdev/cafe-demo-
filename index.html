@@ -585,9 +585,11 @@
         /* سرفصل‌ها با فونتِ هنری */
     }
 
-    /* انیمیشنِ ورودِ نرم (فقط به المان‌ها کلاس animate-fade اضافه کن) */
-    .cafe-section {
-        animation: fadeInUp 0.8s ease forwards;
+    /* انیمیشنِ ورودِ نرم برای همه‌ی بخش‌ها + هدر */
+    .cafe-section,
+    .cafe-header {
+        animation: fadeInUp 1s ease forwards;
+        opacity: 0;
     }
 
     @keyframes fadeInUp {
