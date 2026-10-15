@@ -37,7 +37,7 @@ A modern, fully responsive landing page for a coffee shop, built with pure HTML 
    ```bash
    git clone https://github.com/behzadwebdev/cafe-demo-.git
    
-2.Open index.html in your browser — that's it!
+ 2.Open index.html in your browser — that's it!
 
 No build tools, no installs, no setup required.
 
