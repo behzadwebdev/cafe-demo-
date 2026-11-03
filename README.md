@@ -3,7 +3,7 @@
 A modern, fully responsive landing page for a coffee shop, built with pure HTML & CSS.
 
 🔗 **[View Live Demo](https://behzadwebdev.github.io/cafe-demo-/)**
-
+![Preview](./preview.png)
 ## ✨ Features
 
 - 🎨 Modern & cozy design
